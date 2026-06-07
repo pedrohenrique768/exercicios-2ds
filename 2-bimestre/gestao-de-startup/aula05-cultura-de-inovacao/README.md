@@ -26,3 +26,7 @@ Responda:
 3. Como essa ideia poderia ser testada rapidamente?
 
 Crie sua resposta abaixo:
+
+1. fila do banheiro
+2. os alunos irem até a losa colocar seu nome 
+3. falar com os professores para testar isso em suas aulas

@@ -101,3 +101,8 @@ Perguntas:
 4. Como evitar novamente?
 
 Crie sua resposta abaixo:
+
+1. ninguém sabia suas devidas tarefas
+2. falta de organização e comunicação 
+3. dividir as tarefas de cada membro
+4. planejar no começo

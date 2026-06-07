@@ -113,3 +113,7 @@ Responda:
 3. O que precisa desenvolver?
 
 Crie sua resposta abaixo:
+
+1. pintor
+2. sei desenhar, pintar e tenho criatividade
+3. comunicação
