@@ -1,0 +1,19 @@
+meta {
+  name: Criar compra
+  type: http
+  seq: 5
+}
+
+post {
+  url: http://localhost:3000/compras
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "cliente": "Diego",
+    "material": "Caderno",
+    "valor": 22
+  }
+}
